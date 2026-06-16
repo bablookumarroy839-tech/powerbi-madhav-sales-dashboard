@@ -43,7 +43,7 @@ This project presents an interactive Sales Analytics Dashboard developed using P
 
 ## Dashboard Preview
 
-![Dashboard](Madhav Store Sales Analysis.png)
+![Dashboard](Madhav%20%20Store%20Sales%20%20Analysis.png)
 
 ## Skills Demonstrated
 
